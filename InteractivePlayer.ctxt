@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=InteractivePlayer
+comment1.params=s
+comment1.target=InteractivePlayer(java.lang.String)
+comment1.text=\r\n\ InteractivePlayer\ Constructor\r\n\ (note\ that\ it\ inherits\ the\ Player\ constructor)\r\n\ @param\ s\ -\ player's\ corresponding\ symbol\r\n
+comment2.params=s\ sc
+comment2.target=InteractivePlayer(java.lang.String,\ java.util.Scanner)
+comment2.text=\r\n\ InteractivePlayer\ Constructor\r\n\ (note\ that\ it\ inherits\ the\ Player\ constructor)\r\n\ @param\ s\ -\ player's\ corresponding\ symbol\r\n\ @param\ sc\ -\ the\ scanner\ object\ being\ used\ for\ this\ player\r\n
+comment3.params=
+comment3.target=java.util.Scanner\ getScan()
+comment3.text=\r\n\ Accessor\ for\ the\ scanner\ object\r\n\ @return\ Scanner\ the\ scanner\ object\r\n
+comment4.params=b
+comment4.target=int\ getMove(Board)
+comment4.text=\r\n\ Overrides\ the\ get\ move\ method\ to\ get\ the\ user's\ player\ input\r\n\ Possible\ moves\ are\ between\ 1\ and\ the\ size\ of\ the\ board\r\n\ @param\ b\ -\ the\ current\ board\ being\ used\r\n\ @return\ int\ player's\ randomized\ move\r\n
+numComments=5

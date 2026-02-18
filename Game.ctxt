@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Game\ class\ sets\ up\ board\ and\ assigns\ values\ to\ players\r\n\ It\ plays\ the\ game,\ displays\ the\ board,\ and\ determines\ if\ the\ game\ is\ over\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Game\ constructor\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ Plays\ the\ game\r\n\ While\ the\ game\ hasn't\ ended,\ it\ takes\ turns\ getting\ moves\ from\ each\ player\r\n\ After\ each\ move,\ it\ will\ display\ the\ board\r\n\ Once\ the\ game\ has\ ended,\ it\ will\ check\ which\ player\ has\ won\ or\ if\ nobody\ won\r\n\ It\ then\ displays\ the\ outcome\r\n
+comment3.params=
+comment3.target=void\ displayBoard()
+comment3.text=\r\n\ Displays\ the\ board\r\n
+comment4.params=
+comment4.target=boolean\ isGameOver()
+comment4.text=\r\n\ Determines\ whether\ or\ not\ the\ game\ is\ over\r\n\ @return\ boolean\ whether\ or\ not\ the\ game\ is\ over\r\n
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=s
+comment1.target=Player(java.lang.String)
+comment1.text=\r\n\ Player\ constructor\r\n\ @param\ s\ -\ player's\ corresponding\ symbol\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSymbol()
+comment2.text=\r\n\ Accessor\ for\ player's\ symbol\r\n\ @return\ String\ the\ player's\ assigned\ symbol\r\n
+comment3.params=b
+comment3.target=int\ getMove(Board)
+comment3.text=\r\n\ Gets\ a\ randomized\ move\ from\ player\r\n\ Possible\ moves\ are\ between\ 1\ and\ the\ size\ of\ the\ board\r\n\ @param\ b\ -\ the\ current\ board\ being\ used\r\n\ @return\ int\ player's\ randomized\ move\r\n
+numComments=4
